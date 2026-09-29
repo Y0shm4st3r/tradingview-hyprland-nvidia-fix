@@ -38,8 +38,8 @@ This repo makes that permanent for your user, without touching package files, so
 AUR updates don't overwrite it.
 
 ```sh
-git clone <this repo>
-cd <repo>
+git clone https://github.com/Y0shm4st3r/tradingview-hyprland-nvidia-fix
+cd tradingview-hyprland-nvidia-fix
 ./install.sh
 ```
 
