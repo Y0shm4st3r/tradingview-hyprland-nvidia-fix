@@ -1,0 +1,3 @@
+#!/bin/sh
+# Force XWayland: native Wayland + NVIDIA deadlocks main thread when opening new windows.
+exec /usr/lib/tradingview/tradingview --ozone-platform=x11 "$@"
